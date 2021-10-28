@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="150mm"
+   height="50mm"
+   viewBox="0 0 150 50"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
+   sodipodi:docname="logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#000000"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="true"
+     inkscape:document-units="mm"
+     showgrid="false"
+     width="150mm"
+     showborder="true"
+     height="50mm"
+     inkscape:zoom="0.45789843"
+     inkscape:cx="396.37611"
+     inkscape:cy="161.60789"
+     inkscape:window-width="1360"
+     inkscape:window-height="742"
+     inkscape:window-x="0"
+     inkscape:window-y="20"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient23519">
+      <stop
+         style="stop-color:#ff0000;stop-opacity:1"
+         offset="0"
+         id="stop23515" />
+      <stop
+         style="stop-color:#0000ff;stop-opacity:1"
+         offset="1"
+         id="stop23517" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient2813"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop2811" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient23519"
+       id="linearGradient23521"
+       x1="9.6895518"
+       y1="25.800995"
+       x2="135.65383"
+       y2="25.800995"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke-width:0;stroke-opacity:0;stroke:none"
+       id="rect846"
+       width="150"
+       height="50"
+       x="-2.7755576e-17"
+       y="0"
+       rx="15"
+       ry="15" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:20.0027px;line-height:1.25;font-family:sans-serif;fill:url(#linearGradient23521);fill-opacity:1;stroke:none;stroke-width:0.267892"
+       x="7.7263961"
+       y="33.258057"
+       id="text5351"
+       transform="scale(1.0320395,0.96895516)"><tspan
+         sodipodi:role="line"
+         id="tspan5349"
+         style="font-size:20.0027px;fill:url(#linearGradient23521);fill-opacity:1;stroke-width:0.267892"
+         x="7.7263961"
+         y="33.258057">Mathematics</tspan></text>
+  </g>
+</svg>
